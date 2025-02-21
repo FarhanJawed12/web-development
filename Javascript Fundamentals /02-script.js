@@ -18,4 +18,4 @@ console.log(isFollow);
 //1. Variable names are case sensitive
 //2. Only letters, digit, underscore and $ is allowed (not even space)
 //3. Only a letter, underscore or $ should be 1st character
-//4. Reserved words cannot be variable names
+//4. Reserved words cannot be variable name
