@@ -10,7 +10,7 @@ bussiness.shift();  // ["Microsoft", "Uber", "Google", "IBM", "Netflix"]
 
 //remove uber and add ola
 bussiness.splice(1, 1 , "Ola"); // ["Microsoft", "Ola", "Google", "IBM", "Netflix"]
-]
+
 
 // add amazon at the end
 bussiness.push("Amazon");
